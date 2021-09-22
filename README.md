@@ -10,7 +10,8 @@ Images are from [Unsplash](https://unsplash.com)
 
 [Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+<a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -38,7 +39,6 @@ Images are from [Unsplash](https://unsplash.com)
 Adapts to device theme
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+<a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
 
-## 🔖 LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
+
